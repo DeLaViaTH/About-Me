@@ -8,10 +8,10 @@ const navbar = `
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+          <a class="nav-link active" aria-current="page" href="../index.html">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="bmi.html">BMI Calculator</a>
+          <a class="nav-link" href="../bmi.html">BMI Calculator</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://status-page.delaviath.com/">Status Page</a>
