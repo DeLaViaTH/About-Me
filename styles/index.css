@@ -6,7 +6,7 @@ body {
 
 .container {
     max-width: 15000px;
-    margin: 0 auto;
+    margin: 20px;
     text-align: center;
     z-index: 1;
     position: relative;
